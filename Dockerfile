@@ -1,4 +1,4 @@
-FROM ubuntu:focal-20230412
+FROM ubuntu:20.04
 
 ARG VERSION=15.11.3
 
