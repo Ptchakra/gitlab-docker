@@ -1,4 +1,4 @@
-FROM ubuntu:focal-20230412
+FROM ubuntu:focal
 
 ARG VERSION=15.11.3
 
